@@ -2,6 +2,7 @@ Introduction
 ============
 
 This is work for Madlibs homework assignment.
+Users will need to enter 10 words.
 
 Here is the original paragraph::
 
