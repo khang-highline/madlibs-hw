@@ -4,7 +4,9 @@ Introduction
 This is work for Madlibs homework assignment.
 Users will need to enter 10 words.
 
-Here is the original paragraph::
+Here is the original paragraph:
+
+.. code-block::
 
 	My name is *Tony*.
 	I'm from *Marvel*.
@@ -25,7 +27,10 @@ Dependency
 Compile
 -------
 
-* Open the project in Developer Command Prompt for VS 2022.
-* Run the command::
+Open the project in Developer Command Prompt for VS 2022.
+
+Then, run the command:
+
+.. code-block::
 
 	make
