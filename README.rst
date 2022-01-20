@@ -8,7 +8,7 @@ Here is the original paragraph:
 
 	My name is **Tony**.
 	I'm from **Marvel**.
-	I'm doing a/an **associate** in **CSCI** at *Highline*.
+	I'm doing a/an **associate** in **CSCI** at **Highline**.
 	I want to become a/an **developer** in the **biomedical** field.
 	In my free time, I like to **read**, **code**, and **design**.
 
