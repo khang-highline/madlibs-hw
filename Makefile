@@ -10,8 +10,9 @@ madlibs.exe: madlibs.cpp
 	$(CC) madlibs.cpp $(CFLAGS)
 
 test:
-	echo Tony Marvel associate CSCI Highline developer biomedical read \
-	code design | madlibs
+	printf "Tony Stark\nMarvel\nAssociate of Marvel\nNuclear Engineering\n\
+	S.H.I.E.L.D Academy\nIron Man\nbiomedical\nfight\ncode\ndesign\n"| \
+	madlibs
 
 clean:
 	$(RM) madlibs.exe madlibs.obj
